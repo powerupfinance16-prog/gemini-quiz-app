@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Glass Quiz",
+  "description": "A minimalist, glassmorphism-styled quiz application powered by Gemini 2.5 Flash. Features dynamic question generation and a clean, Perplexity-inspired aesthetic.",
+  "requestFramePermissions": []
+}
